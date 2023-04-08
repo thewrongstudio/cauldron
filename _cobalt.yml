@@ -1,8 +1,0 @@
-# Build options.
-source: src
-destination: build
-
-# Site options.
-site:
-  title: Cauldron
-  description: A simple recipe website.
